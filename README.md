@@ -16,9 +16,8 @@ The key functionalities include:
 ⦁	Generation and rendering of key statistical figures used in the publication
 
 There are three folders under this repository
-1.	Road_network_China: Contains topologically corrected road network datasets essential for accurate route computation across China.
-2.	example_for_SA: Sample inputs and outputs designed for testing and validating the simulated annealing optimization.
-3.	Codes_for_Fig: Datasets and code necessary for replicating the statistical visualizations featured in the publication.
+1.	example_for_SA: Sample inputs and outputs designed for testing and validating the simulated annealing optimization.
+2.	Codes_for_Fig: Datasets and code necessary for replicating the statistical visualizations featured in the publication.
 
 Detailed usage instructions and parameter explanations are documented within each script.
 
