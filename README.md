@@ -5,7 +5,7 @@ This repository contains the core code and analytical procedures supporting the 
 Copyright: Guorong Zhao, School of Environmental Science&Engineering, Tianjin University
 Contact: zhao_8926@tju.edu.cn, WeChat: lyxq_zhao
 Primary version was made in March 24, 2025
-Last updated ：October 5, 2025
+Last updated ：October 31, 2026
 
 The key functionalities include:
 ⦁	Detailed topological processing of the road network data across China
@@ -18,6 +18,7 @@ The key functionalities include:
 There are three folders under this repository
 1.	example_for_SA: Sample inputs and outputs designed for testing and validating the simulated annealing optimization.
 2.	Codes_for_Fig: Datasets and code necessary for replicating the statistical visualizations featured in the publication.
+3.	Dataset_SI: Supplementary Information tables (Tables S2, S4, S6, and S7) providing comprehensive datasets on WWTP characteristics, vehicle routing optimization results, CO2 emission metrics across baseline and alternative scenarios, and comparisons of spatial distance calculation methods.
 
 Detailed usage instructions and parameter explanations are documented within each script.
 
